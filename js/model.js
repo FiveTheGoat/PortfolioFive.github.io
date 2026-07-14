@@ -13,7 +13,7 @@ const Model = {
 
   featured: [
     {
-      title: "Kokichi — Desktop Pet",
+      title: "Kokichi - Desktop Pet",
       tag: "Python · IA", color: "#3572A5",
       url: "https://github.com/fivethegoat", cta: "Voir sur GitHub →", // TODO: lien exact du repo
       img: "assets/projects/kokichi.png",
