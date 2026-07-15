@@ -2,7 +2,7 @@ const Model = {
 
   githubUser: "fivethegoat", // TODO: vérifie que c'est bien ton username GitHub
 
-  contactEmail: "TON_EMAIL_ICI@example.com", // TODO
+  contactEmail: "edwards.mickael97200@gmail.com", // TODO
 
   state: {
     screen: "home",
