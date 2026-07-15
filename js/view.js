@@ -181,7 +181,7 @@ const View = {
   startClock() {
     setInterval(() => {
       this.els.clock.textContent =
-        new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" }) + " · MAR";
+        new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" }) + " · MQ";
     }, 1000);
   },
 
